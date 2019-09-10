@@ -1,8 +1,6 @@
 # Welcome!
 
-"Going Mousless" aims to be a gentle introduction to keyboard only bliss.
-
-This repo contains the code used in the "Going Mousless" course and some docs.
+"Going Mousless" is a gentle introduction to Unix Based IDE.
 
 ## Lesson Plan
 
